@@ -1,2 +1,2 @@
 # The Hunted
-[(https://smnarnold.com/projets/vous-etes-le-heros)https://smnarnold.com/projets/vous-etes-le-heros]
+[Développement web - Projet vous êtes le héros](https://smnarnold.com/projets/vous-etes-le-heros)
