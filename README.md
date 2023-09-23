@@ -7,3 +7,5 @@
 
 **Palette de couleurs**: [coolors.co](https://coolors.co/524543-604a35-a39578-ddc192-135756-5a7d68)
 
+## Diagramme
+
