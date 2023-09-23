@@ -9,4 +9,4 @@
 
 ## Diagramme
 
-![shema](./asset/image/shema.png)
+![shema](./assets/image/shema.png)
