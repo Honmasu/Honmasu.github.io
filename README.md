@@ -9,3 +9,4 @@
 
 ## Diagramme
 
+![](/asset/image/shema.png)
