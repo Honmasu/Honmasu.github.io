@@ -1,0 +1,74 @@
+@font-face {
+    font-family: danger;
+    src: url(/assets/font/another_danger/Another\ Danger\ -\ Demo.otf);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #5A7D68;
+}
+
+#jeu {
+    display:flex;
+    width: 100%;
+    max-width: 900px;
+    min-width: 400px;
+    min-height: 100px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #135756;
+}
+
+#logo {
+    font-family: danger;
+    color: #DDC192;
+}
+
+#title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #DDC192;
+    margin: 20px;
+}
+
+#texte {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #DDC192;
+    margin: 20px;
+}
+
+#Bouton {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    justify-content: space-between;
+    background-color: #A39578;
+    color: #053634;
+    padding: 10px 20px;
+}
+
+button:hover {
+    color: #524543;
+
+}
+
+img {
+    width: 700px;
+    height: 300px;
+    max-width: 500px;
+    max-height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 70px;
+}
