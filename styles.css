@@ -72,3 +72,17 @@ img {
     align-items: center;
     margin: 70px;
 }
+
+@media (max-width: 600px) {
+    #Bouton {
+        flex-direction: column;
+    }
+
+    button {
+        margin: 5px;
+    }
+
+    img {
+        margin: 10px;
+    }
+}
